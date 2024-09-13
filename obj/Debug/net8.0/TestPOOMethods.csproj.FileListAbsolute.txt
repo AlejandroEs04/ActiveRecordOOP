@@ -1,0 +1,14 @@
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.AssemblyInfoInputs.cache
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.AssemblyInfo.cs
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.csproj.CoreCompileInputs.cache
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\bin\Debug\net8.0\TestPOOMethods.exe
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\bin\Debug\net8.0\TestPOOMethods.deps.json
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\bin\Debug\net8.0\TestPOOMethods.runtimeconfig.json
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\bin\Debug\net8.0\TestPOOMethods.dll
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\bin\Debug\net8.0\TestPOOMethods.pdb
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.dll
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\refint\TestPOOMethods.dll
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.pdb
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\TestPOOMethods.genruntimeconfig.cache
+C:\Users\2004e\Desktop\Development\Software Development\TestPOOMethods\obj\Debug\net8.0\ref\TestPOOMethods.dll
